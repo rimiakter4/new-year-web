@@ -1,0 +1,47 @@
+.head{
+background-image: url(../images/Banner\ Image.png);
+max-width: 1320px;
+height: 600px;
+margin: 0 auto;
+border-radius: 16px;
+
+
+}
+.new-year{
+    color: white;
+    text-align: center;
+    align-items: center;
+    background-image:linear-gradient(rgb(0, 0,0,0.3) ,rgb(0,0,0,0.5)), url(../images/Banner\ Image.png);
+max-width: 1320px;
+height: 600px;
+margin: 0 auto;
+border-radius: 16px;
+
+    
+    
+    
+    
+
+}
+.bg-color{
+    background-color: rgb(129, 129, 129);
+}
+.p{
+
+padding: 30PX;
+    font-size: 35px;
+    
+}
+h1{
+    font-size: 70px;
+    
+}
+
+
+
+.noto-sans-jp-nomal{
+  font-family: "Noto Sans JP", sans-serif;
+  font-optical-sizing: auto;
+  
+  font-style: normal;
+}
