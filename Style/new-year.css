@@ -1,14 +1,7 @@
-.head{
-background-image: url(../images/Banner\ Image.png);
-max-width: 1320px;
-height: 600px;
-margin: 0 auto;
-border-radius: 16px;
 
-
-}
 .new-year{
     color: white;
+    
     text-align: center;
     align-items: center;
     background-image:linear-gradient(rgb(0, 0,0,0.3) ,rgb(0,0,0,0.5)), url(../images/Banner\ Image.png);
@@ -41,7 +34,104 @@ h1{
 
 .noto-sans-jp-nomal{
   font-family: "Noto Sans JP", sans-serif;
+   margin-bottom: 170px;
+   margin-top: 170px;
   font-optical-sizing: auto;
-  
+ 
   font-style: normal;
+}
+.offer-container{
+    text-align: center;
+    margin: 0 auto;
+    margin-top: 170px;
+    margin-bottom: 170px;
+    line-height: 10px;
+}
+.heading-title{
+    font-size: 88px;
+    font-weight: bold;
+    color: #FF0000;
+    line-height: 10px;
+}
+.heading-description{
+    font-size: 24px;
+    font-weight: 400;
+    color:  #FF0000;
+}
+.heading-subtitle{
+    font-size: 48px;
+    font-weight: 600;
+    color: #070211;
+}
+.line-height{
+    line-height: 10px;
+}
+.welcome-midnight{
+    
+    background-image:linear-gradient(rgb(0, 0,0,0.3) ,rgb(0,0,0,0.5)), url(../images/Vectorrr.png);
+    background-repeat: no-repeat;
+    /* background-color: goldenrod; */
+    
+max-width: 1120px;
+height: 400px;
+margin: 0 auto;
+border-radius: 16px;
+padding: 100px;
+
+}
+.body-width{
+    width: 50%;
+}
+.head-welcome{
+    font-size: 64px;
+    color: #FFFFFF;
+}
+.p-descrription{
+    font-size: 18px;
+    color:  #c7c4c4;
+    font-weight: 100px
+}
+.btn-p{
+    font-size: 20px;
+    font-weight: bold;
+    border: none;
+    color:  #FFFFFF;
+    
+}
+.time{
+    background-image: linear-gradient( to top,#eee2e2,#ffcccc);
+   
+    max-width: 1320px;
+height: 500px;
+margin: 0 auto;
+border-radius: 16px;
+
+/* background-color: gray; */
+text-align: center;
+align-items: center;
+
+
+
+}
+.time-p{
+    font-size: 35px;
+    font-weight: 600;
+    margin-top: 170px;
+    padding: 80px;
+    line-height: 10px;
+    
+}
+span{
+    color: #FF0000;
+}
+.btn{
+    /* padding:20px; */
+    font-size: 20px;
+    font-weight: bold;
+   background-color:    #FF0000;
+    border-radius: 8px;
+    color: white;
+    margin-top: 40px;
+    width: 150px;
+    height: 60px;
 }
