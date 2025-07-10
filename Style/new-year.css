@@ -1,4 +1,6 @@
-
+section{
+    margin-top: 170px;
+}
 .new-year{
     color: white;
     
@@ -147,9 +149,11 @@ span{
     line-height: 16px;
 }
 .dot{
-    height: 463px;
-  width: 463px;
-  background-color: #fffefe;
+    height: 340px;
+  width: 340px;
+  background-image: url(../images/Ellipse\ 1.png);
+  background-repeat: no-repeat;
+  
   border-radius: 50%;
   display: inline-block;
   border: 15px solid #FF0000;
@@ -167,10 +171,27 @@ margin-top: 170px;
 
 
 }
-/* .offer-50{ */
-    margin-top: 170px;
-    margin-bottom: 170px;
-}
+
 .content-1{
     line-height: 16px;
+}
+.sale{
+    text-align: center;
+    
+    border-radius: 16px ;max-width: 1320px;
+height: 500px;
+margin: 0 auto;
+line-height: 28px;
+    
+}
+.gift img{
+    height: 200%;
+    width: 200%; text-align: center;
+    
+    border-radius: 16px ;max-width: 1320px;
+height: 500px;
+margin: 0 auto;
+}.circle{
+    background-image: url(../images/Ellipse\ 1.png);
+    background-repeat: no-repeat;
 }
